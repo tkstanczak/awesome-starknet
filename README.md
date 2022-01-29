@@ -167,15 +167,16 @@
 ## Tools
 
 #### General
-
-- [starknet-devnet](https://github.com/Shard-Labs/starknet-devnet) - Local
-  testnet
-- [nile](https://github.com/OpenZeppelin/nile) - CLI tool to develop StarkNet
-  projects written in Cairo by OpenZeppelin
-- [starkops](https://github.com/seanjameshan/starkops) - StarkNet CLI
 - [argent-x](https://github.com/argentlabs/argent-x) - Browser extension wallet
 - [cairo_kernel](https://github.com/ankitchiplunkar/cairo-jupyter) - Jupyter
   kernel for Cairo.
+- [juno](https://github.com/NethermindEth/juno) - Juno StarkNet client project (GoLang)
+- [nile](https://github.com/OpenZeppelin/nile) - CLI tool to develop StarkNet
+  projects written in Cairo by OpenZeppelin
+- [starknet-devnet](https://github.com/Shard-Labs/starknet-devnet) - Local
+  testnet
+- [starkops](https://github.com/seanjameshan/starkops) - StarkNet CLI
+- [voyager](https://voyager.online) - StarkNet block explorer
 
 #### Utility
 
